@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openaiapi-site.azureedge.net",
+        "openaicomproductionae4b.blob.core.windows.net",
+        "challenges.cloudflare.com",
+        "client-api.arkoselabs.com",
+        "statsigapi.net",
+        "featureassets.org",
+        "prodregistryv2.org",
+        "intercom.io",
+        "intercomcdn.com",
+        "stun.cloudflare.com",
+        "ct.sendgrid.net",
+        "oaistatsig.com",
+        "cdn.openaimerge.com",
+        "cdn.workos.com",
+        "forwarder.workos.com",
+        "humb.apple.com",
+        "images.workoscdn.com",
+        "js.stripe.com",
+        "o207216.ingest.sentry.io",
+        "o33249.ingest.sentry.io",
+        "rum.browser-intake-datadoghq.com",
+        "setup.workos.com",
+        "workos.imgix.net"
+      ]
+    }
+  ]
+}
