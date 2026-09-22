@@ -1,4 +1,26 @@
 {
   "version": 2,
-  "rules": [  ]
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com",
+        "googleapis.com",
+        "gstatic.com",
+        "googlevideo.com",
+        "youtube.com",
+        "youtu.be",
+        "ytimg.com",
+        "github.com",
+        "githubassets.com",
+        "githubusercontent.com",
+        "telegram.org",
+        "t.me",
+        "x.com",
+        "twitter.com",
+        "twimg.com",
+        "wikipedia.org",
+        "wikimedia.org"
+      ]
+    }
+  ]
 }
