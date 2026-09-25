@@ -29,7 +29,14 @@
         "o33249.ingest.sentry.io",
         "rum.browser-intake-datadoghq.com",
         "setup.workos.com",
-        "workos.imgix.net"
+        "workos.imgix.net",
+        "facebook.com",
+        "meta.ai",
+        "ipinfo.io"
+      ],
+      "ip_cidr": [
+        "57.144.64.0/23",
+        "57.145.12.0/23"
       ]
     }
   ]

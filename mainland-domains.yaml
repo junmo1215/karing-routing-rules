@@ -16,3 +16,4 @@ payload:
   - 'DOMAIN-SUFFIX,twimg.com'
   - 'DOMAIN-SUFFIX,wikipedia.org'
   - 'DOMAIN-SUFFIX,wikimedia.org'
+  - 'DOMAIN-SUFFIX,one.one.one.one'

@@ -26,3 +26,8 @@ payload:
   - 'DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com'
   - 'DOMAIN-SUFFIX,setup.workos.com'
   - 'DOMAIN-SUFFIX,workos.imgix.net'
+  - 'DOMAIN-SUFFIX,facebook.com'
+  - 'DOMAIN-SUFFIX,meta.ai'
+  - 'DOMAIN-SUFFIX,ipinfo.io'
+  - 'IP-CIDR,57.144.64.0/23,no-resolve'
+  - 'IP-CIDR,57.145.12.0/23,no-resolve'
